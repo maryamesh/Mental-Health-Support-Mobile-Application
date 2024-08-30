@@ -50,9 +50,50 @@ Technologies Used
 
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue if you have suggestions, bug reports, or feature requests.
-License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 Contact
 For questions or suggestions, please contact [Maryam Eslam Elhossary](mailto:maryamesh1911@gmail.com).
+
+
+MIT License
+
+Copyright (c) 2024 [Your Name]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+### Acknowledgments
+
+This project makes use of the following open-source datasets and models:
+
+1. **[SetFit/emotion dataset](https://huggingface.co/datasets/SetFit/emotion)**
+   - Used for fine-tuning the model. Please review the dataset's page for specific licensing terms.
+   - Credits to the dataset creators.
+
+2. **[roberta-base-go_emotions model](https://huggingface.co/SamLowe/roberta-base-go_emotions)**
+   - A pretrained transformer model used as the base model in this project. Please review the model's page for specific licensing terms.
+   - Credits to Sam Lowe and Hugging Face.
+
+3. **[Emotion Detection from Text dataset](https://www.kaggle.com/datasets/pashupatigupta/emotion-detection-from-text)**
+   - Used for further fine-tuning the model. Please review the dataset's page for specific licensing terms.
+   - Credits to the dataset creator, Pashupati Gupta.
+
+Please ensure compliance with the respective licenses for the datasets and models used in this project. Any use of these datasets and models is subject to the terms and conditions specified by their respective owners.
 
 
